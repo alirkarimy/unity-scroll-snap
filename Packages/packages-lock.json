@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.alec.pooling": {
+      "version": "https://github.com/alirkarimy/unity-pooling.git?path=Packages/com.alec.pooling",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "eaded65283c12b18008345c8603b0f450d682fbc"
+    },
     "com.unity.2d.animation": {
       "version": "10.1.4",
       "depth": 1,
