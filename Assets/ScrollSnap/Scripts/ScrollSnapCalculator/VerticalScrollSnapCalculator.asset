@@ -9,8 +9,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b23f66ec07e933b4b98f61d66b8ff8af, type: 3}
-  m_Name: FadeImageColor
+  m_Script: {fileID: 11500000, guid: 33846dbbd6c91e244846c6cb27c46064, type: 3}
+  m_Name: VerticalScrollSnapCalculator
   m_EditorClassIdentifier: 
-  _fadeOutColor: {r: 1, g: 0.93506396, b: 0, a: 0.7372549}
-  _activeColor: {r: 0.29815066, g: 0.90588236, b: 0.019607833, a: 1}

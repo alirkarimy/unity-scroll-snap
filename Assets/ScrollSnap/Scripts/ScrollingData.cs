@@ -1,11 +1,12 @@
 using System;
 using UnityEngine;
 
-public class ScrollLerpData 
+public class ScrollingData
 {
-    public ScrollLerpData(RectTransform scrollContent)
+    public ScrollingData(RectTransform scrollContent)
     {
-        startDragPos = scrollContent.anchoredPosition;
+        if (scrollContent != null)
+            startDragPos = scrollContent.anchoredPosition;
     }
     internal bool isLerping = false;
     internal float lerpStartTime;
