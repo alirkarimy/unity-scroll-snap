@@ -1,0 +1,16 @@
+{
+    "name": "Alec.scrollsnap",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7268955aedd26c643aec1c177b403d1c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

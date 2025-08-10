@@ -7,6 +7,14 @@
       "dependencies": {},
       "hash": "eaded65283c12b18008345c8603b0f450d682fbc"
     },
+    "com.alec.scrollsnap": {
+      "version": "file:com.alec.scrollsnap",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.alec.pooling": "https://github.com/alirkarimy/unity-pooling.git?path=Packages/com.alec.pooling"
+      }
+    },
     "com.unity.2d.animation": {
       "version": "10.1.4",
       "depth": 1,

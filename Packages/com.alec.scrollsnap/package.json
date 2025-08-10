@@ -1,0 +1,26 @@
+{
+  "name": "com.alec.scrollsnap",
+  "version": "1.0.1",
+  "displayName": "ScrollSnap UI",
+  "description": "Scroll Snap in Unity UI with some capablities to animate scrolling items",
+  "unity": "6000.0",
+  "keywords": [
+    "factory",
+    "pool"
+  ],
+  "author": {
+    "name": "Alec Karimi",
+    "email": "ali.r.karimy@gmail.com",
+    "url": "https://yourwebsite.com"
+  },
+  "dependencies": {
+    "com.alec.pooling": "https://github.com/alirkarimy/unity-pooling.git?path=Packages/com.alec.pooling"
+  },
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "Example scene",
+      "path": "Samples~/Demo"
+    }
+  ]
+}
