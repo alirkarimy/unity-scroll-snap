@@ -5,7 +5,7 @@ using UnityEngine.EventSystems;
 using UnityEngine.UI;
 using UnityEngine.UIElements;
 
-namespace ElkaGames.UI.Scroll
+namespace Alec.UI.Scroll
 {
     [DisallowMultipleComponent]
     [RequireComponent(typeof(ScrollRect), typeof(CanvasGroup))]

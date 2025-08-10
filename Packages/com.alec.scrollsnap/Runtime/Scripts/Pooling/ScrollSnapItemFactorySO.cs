@@ -1,7 +1,7 @@
 ﻿using Alec.Factory;
 using UnityEngine;
 
-namespace ElkaGames.UI.Scroll
+namespace Alec.UI.Scroll
 {
     [CreateAssetMenu(fileName = "ScrollSnapItem", menuName = "Factory/Scroll Snap Item Factory")]
     public class ScrollSnapItemFactorySO : FactorySO<ScrollSnapItem>

@@ -1,4 +1,4 @@
-using ElkaGames.UI.Scroll;
+using Alec.UI.Scroll;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;

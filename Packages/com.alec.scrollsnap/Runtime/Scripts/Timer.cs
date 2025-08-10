@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 using UnityEngine;
-namespace ElkaGames.UI.Scroll
+namespace Alec.UI.Scroll
 {
     public class Timer
     {

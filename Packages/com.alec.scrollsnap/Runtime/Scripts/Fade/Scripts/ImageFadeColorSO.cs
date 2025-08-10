@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace ElkaGames.UI
+namespace Alec.UI
 {
     [CreateAssetMenu(fileName = "FadeColor", menuName = "Factory/Fade Image Color")]
     public class ImageFadeColorSO : ImageFadeColor

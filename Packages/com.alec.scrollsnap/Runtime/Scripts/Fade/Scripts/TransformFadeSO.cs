@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace ElkaGames.UI
+namespace Alec.UI
 {
     [CreateAssetMenu(fileName = "FadeTransform", menuName = "Factory/Fade Transform")]
     public class TransformFadeSO : ScriptableObject

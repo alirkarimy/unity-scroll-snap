@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace ElkaGames.UI
+namespace Alec.UI
 {
     [CreateAssetMenu(fileName = "FadeImage", menuName = "Factory/Fade Image")]
     public class ImageFadeSO : ScriptableObject

@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace ElkaGames.UI
+namespace Alec.UI
 {
     [CreateAssetMenu(fileName = "FadeScale", menuName = "Factory/Fade Scale")]
     public class TransformFadeScaleSO : TransformFadeVector3, IFadeLimit<TransformFadeVector3.Limitations>

@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace ElkaGames.UI
+namespace Alec.UI
 {
     [CreateAssetMenu(fileName = "FadePosition", menuName = "Factory/Fade Position")]
     public class TransformFadePositionSO : TransformFadeVector3, IFadeLimit<TransformFadeVector3.Limitations>

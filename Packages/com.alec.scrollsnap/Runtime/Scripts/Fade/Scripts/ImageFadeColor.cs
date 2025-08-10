@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace ElkaGames.UI
+namespace Alec.UI
 {
     public abstract class ImageFadeColor : FadeSO<Image, Color>
     {

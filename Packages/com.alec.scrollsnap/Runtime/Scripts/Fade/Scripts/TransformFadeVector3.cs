@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace ElkaGames.UI
+namespace Alec.UI
 {
     public abstract class TransformFadeVector3 : FadeSO<Transform, Vector3>
     {

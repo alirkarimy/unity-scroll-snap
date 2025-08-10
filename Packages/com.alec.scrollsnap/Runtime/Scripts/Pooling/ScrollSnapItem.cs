@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
-namespace ElkaGames.UI.Scroll
+namespace Alec.UI.Scroll
 {
     public class ScrollSnapItem : MonoBehaviour
     {

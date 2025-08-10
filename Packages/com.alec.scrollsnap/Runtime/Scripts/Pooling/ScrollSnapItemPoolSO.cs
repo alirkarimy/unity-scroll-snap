@@ -2,7 +2,7 @@
 using Alec.Factory;
 using Alec.Pool;
 
-namespace ElkaGames.UI.Scroll
+namespace Alec.UI.Scroll
 {
     [CreateAssetMenu(fileName = "ScrollSnapItemPool", menuName = "Pool/Scroll Snap Item Pool")]
     public class ScrollSnapItemPoolSO : ComponentPoolSO<ScrollSnapItem>
