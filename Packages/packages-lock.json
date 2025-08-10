@@ -5,13 +5,15 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "eaded65283c12b18008345c8603b0f450d682fbc"
+      "hash": "90f0b63aea9a33fce8a1347f2d923b27bcb50f53"
     },
     "com.alec.scrollsnap": {
       "version": "file:com.alec.scrollsnap",
       "depth": 0,
       "source": "embedded",
-      "dependencies": {}
+      "dependencies": {
+        "com.alec.pooling": "1.0.3"
+      }
     },
     "com.unity.2d.animation": {
       "version": "10.1.4",
