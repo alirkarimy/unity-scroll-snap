@@ -14,7 +14,6 @@
     "url": "https://yourwebsite.com"
   },
   "dependencies": {
-    "com.alec.pooling": "https://github.com/alirkarimy/unity-pooling.git?path=Packages/com.alec.pooling"
   },
   "samples": [
     {
