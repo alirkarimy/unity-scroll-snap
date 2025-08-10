@@ -11,9 +11,7 @@
       "version": "file:com.alec.scrollsnap",
       "depth": 0,
       "source": "embedded",
-      "dependencies": {
-        "com.alec.pooling": "https://github.com/alirkarimy/unity-pooling.git?path=Packages/com.alec.pooling"
-      }
+      "dependencies": {}
     },
     "com.unity.2d.animation": {
       "version": "10.1.4",
