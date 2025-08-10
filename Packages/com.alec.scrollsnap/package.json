@@ -1,6 +1,6 @@
 {
   "name": "com.alec.scrollsnap",
-  "version": "1.0.1",
+  "version": "1.0.6",
   "displayName": "ScrollSnap UI",
   "description": "Scroll Snap in Unity UI with some capablities to animate scrolling items",
   "unity": "6000.0",
